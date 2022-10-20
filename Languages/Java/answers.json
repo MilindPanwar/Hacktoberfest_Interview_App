@@ -15,6 +15,10 @@
     {
       "answer": "It is the polymorphism technique which allows us to create multiple methods with the same name but different signature.",
       "details": "Method Overloading increases the readability of the program. Method overloading is performed to figure out the program quickly."
+    },
+    {
+      "answer": "The super keyword in Java is a reference variable which is used to refer immediate parent class object.",
+      "details": "Whenever you create the instance of subclass, an instance of parent class is created implicitly which is referred by super reference variable."
     }
   ]
 }
