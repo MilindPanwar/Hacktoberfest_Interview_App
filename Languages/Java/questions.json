@@ -160,6 +160,33 @@
       "trueOrFalse": false,
       "shortAns": "The super keyword in Java is a reference variable which is used to refer immediate parent class object.",
       "tag": "Java"
+    },
+    {
+      "id": 18,
+      "question": "What is Final Keyword?",
+      "details": "The final keyword can be applied with the variables, a final variable that have no value it is called blank final variable or uninitialized final variable. It can be initialized in the constructor only.",
+      "questionType": "multi",
+      "trueOrFalse": false,
+      "shortAns": "The final keyword in java is used to restrict the user. The java final keyword can be used in many context.",
+      "tag": "Java"
+    },
+    {
+      "id": 19,
+      "question": "What is Static keyword?",
+      "details": "The static keyword in Java is used for memory management mainly. We can apply static keyword with variables, methods, blocks and nested classes. The static keyword belongs to the class than an instance of the class.",
+      "questionType": "multi",
+      "trueOrFalse": false,
+      "shortAns": "If you declare any variable as static, it is known as a static variable.",
+      "tag": "Java"
+    },
+    {
+      "id": 20,
+      "question": "What is New Keyword?",
+      "details": "New keyword instantiates a class by allocating memory for a new object and returning a reference to that memory. We can also use the new keyword to create the array object.",
+      "questionType": "multi",
+      "trueOrFalse": false,
+      "shortAns": "The Java new keyword is used to create an instance of the class.",
+      "tag": "Java"
     }
   ]
 }
